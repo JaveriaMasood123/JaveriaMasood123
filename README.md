@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm a Frontend Developer<br>I'm a student<br>i'm currently working on React 
-
+Hello! I'm a BS Computer Science student.<br>I'm front-end developer with a passion <br>for creating responsive and user friendly websites.<br>I'm currently pursuing a Web and App Development<br> course from SMIT and Data Science course from NED.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/javeria-masood) 
